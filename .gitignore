@@ -1,5 +1,9 @@
 # Adding config.py file.
 config.py
+<<<<<<< HEAD
+=======
+
+>>>>>>> 4826f815108fcd73940bfabba6e41d8ea6c86b77
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
